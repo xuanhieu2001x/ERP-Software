@@ -1,0 +1,26 @@
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Accountant Software.exe.config
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Accountant Software.exe
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Accountant Software.pdb
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.csproj.AssemblyReference.cache
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmLogin.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmMain.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Properties.Resources.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.csproj.GenerateResource.cache
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.csproj.CoreCompileInputs.cache
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.exe
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.pdb
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmProductEntry.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Forms.frmSales.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmCustomer.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Forms.frmPurchase.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmSupplier.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Reports.frmGeneralDiary.resources
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant_Software.Project.frmAgentList.resources
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\ExcelDataReader.dll
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Microsoft.MSXML.dll
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\ExcelDataReader.pdb
+C:\Users\xuanh\source\repos\Accountant Software\bin\Debug\ExcelDataReader.xml
+C:\Users\xuanh\source\repos\Accountant Software\obj\Debug\Accountant Software.csproj.CopyComplete
